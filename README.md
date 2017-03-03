@@ -20,7 +20,9 @@
 */
 
 1) Requirement 1- As a system user, I want to submit the change request form so that my request can be routine to proposed queue. 
+
 2) Requirement 2– As a system user, I want to view all the requested change so that I could see the list of the change request. 
+
 3) Requirement 3– As a system user, I want to download the selected item of Change Request into Microsoft Word Format so that I can document and communicate it when need. 
 
 
