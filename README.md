@@ -9,7 +9,7 @@
 
 ===============================================================================================
 
-A. Requirement Phase 1 
+# A. Requirement Phase 1 
 
 /*
   Author: Mical Guo 
@@ -19,13 +19,13 @@ A. Requirement Phase 1
       a. Initial Version, March 3rd 2017 
 */
 
-#Requirement 1- As a system user, I want to submit the change request form so that my request can be routine to proposed queue. 
-#Requirement 2– As a system user, I want to view all the requested change so that I could see the list of the change request. 
-#Requirement 3– As a system user, I want to download the selected item of Change Request into Microsoft Word Format so that I can document and communicate it when need. 
+1) Requirement 1- As a system user, I want to submit the change request form so that my request can be routine to proposed queue. 
+2) Requirement 2– As a system user, I want to view all the requested change so that I could see the list of the change request. 
+3) Requirement 3– As a system user, I want to download the selected item of Change Request into Microsoft Word Format so that I can document and communicate it when need. 
 
 
-B. Requirement Phase 2
+# B. Requirement Phase 2
  
  To-be-continued. 
 
-C. Requirement Phase 3 
+# C. Requirement Phase 3 
