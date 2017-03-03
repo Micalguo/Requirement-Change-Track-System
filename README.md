@@ -4,7 +4,7 @@
 
 2. Requirements of this project would be released phase by Phase 
 
-3. This is OPEN-SOURCE project, so don't hesitiate the participart in this project if you would like to join with us
+3. This is OPEN-SOURCE project, so don't hesitiate to participate in this project if you would like to join with us
 
 
 ===============================================================================================
@@ -19,7 +19,23 @@
       a. Initial Version, March 3rd 2017 
 */
 
-1) Requirement 1- As a system user, I want to submit the change request form so that my request can be routine to proposed queue. 
+1) Requirement 1- As a system user, I want to submit the change request form so that my request can be routine to proposed queue.
+
+Requirement Break Down 
+  a. 	Input FORM from Front End
+        Draft Data Structure 
+        --------------------------------------------------------------------------------------------------------
+        Id	        Field Name	        Mandatory/Optional	        Field Format	       Comments
+        1	        Type of change	        M	                        Check Box	          Enhancement/Defect
+        2	        Project Title	          M	                        Input Field	        30 bytes at maximum
+        3	        Submit by             	M	                        Input Field	        30 bytes at maximum
+        4	        Data Submitted	        M                       	Calendar            Format	
+        5	        Priority	              M	                        Check Box	          Low/Medium/High/Mandatory
+        6       	Reason for Change	      O	                        Input Field	
+        7	        Description            	M	                        Input Field	          500 bytes at maximum
+        ---------------------------------------------------------------------------------------------------------
+
+
 
 2) Requirement 2– As a system user, I want to view all the requested change so that I could see the list of the change request. 
 
